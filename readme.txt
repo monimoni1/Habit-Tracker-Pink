@@ -1,44 +1,42 @@
 
-FREE APP
+FREE APP: Habit Tracker Pink
 
-Created by WebIntoApp.com on Monday 5th of August 2024 02:03:20 AM.
+This is a Habit Tracking App with Flexible Frequency Options. There were no unpaid opytions in the market that allowed you to track more than 3 habits. 
+Moreover, I feel like I was missing something like the overview option that would help me track my progress. 
+Most Habit tracking apps out there also looked brutal and seemed moody, whereas I wanted something that looked flirty and fun. 
+The app track's your progress over 100 days and has dates on the top row to help you keep in track. 
+There are also Flexible Frequency options which means that you can choose to execute a habit every 1-7 days. 
+(Watering my plants for example, I only need to do it every two days as opposed to every day.) 
 
-Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
-and to any other APK / AAB store over the internet.
+I hope to add a notification function sometime in the future, and a to do list for the day, so that 
+you can see at a glance what activities need to be executed that day. 
+
+Thanks for downloading my API. 
+If you have any questions about this app, please get in contact with me at LinkedIn
+(all socials and contacts given below.) 
 
 -------------------------------------
 App ID:			404187
-App Key:		XBsBXlutFZqPekXRAHWiDzGokdmxXVrv
 App Name:		Habit Tracker Pink
 App Version:	1.0
 Package:		com.mycompany.habittrackerpink
 Mode:			Free App
 -------------------------------------
 
-Your free app is ready, you can now publish it to the 
-google play store and to any apk app store on the internet.
+
 
 -------------------------------------
-Please note, your app is under a FREE mode, you can always 
-convert it to your own dedicated and branded mobile app for 
-Android and iOS with all the premium features at:
 
-https://www.webintoapp.com/author/apps/404187/edit?cmd=app-switcher
 
 -------------------------------------
 Here are some useful links:
--------------------------------------
+Mishita's LinkedIn account: https://www.linkedin.com/in/mishita-nath-2435071ba/
+Mishita's Instagram: @eggroll.mountaindew
 
-You can edit your app at:
-https://www.webintoapp.com/author/apps
+------------------------------------
 
-Get installs statistics at:
-https://www.webintoapp.com/author/stats?appid=404187
 
-The Author Area:
-https://www.webintoapp.com/author/dashboard
 
 -------------------------------------
-WebIntoApp.com Team.
-https://www.webintoapp.com
+
 -------------------------------------
