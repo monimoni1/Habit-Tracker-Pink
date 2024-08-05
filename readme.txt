@@ -11,6 +11,11 @@ There are also Flexible Frequency options which means that you can choose to exe
 I hope to add a notification function sometime in the future, and a to do list for the day, so that 
 you can see at a glance what activities need to be executed that day. 
 
+TECHNICALS:
+App was coded in Html, CSS and Javascript. 
+App was compiled using webintoapp.com
+App website is hosted in tiiny.host
+
 Thanks for downloading my API. 
 If you have any questions about this app, please get in contact with me at LinkedIn
 (all socials and contacts given below.) 
