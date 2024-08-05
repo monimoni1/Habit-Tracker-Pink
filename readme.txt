@@ -20,6 +20,7 @@ Thanks for downloading my API.
 If you have any questions about this app, please get in contact with me at LinkedIn
 (all socials and contacts given below.) 
 
+
 -------------------------------------
 App ID:			404187
 App Name:		Habit Tracker Pink
@@ -29,18 +30,12 @@ Mode:			Free App
 -------------------------------------
 
 
-
--------------------------------------
-
-
 -------------------------------------
 Here are some useful links:
 Mishita's LinkedIn account: https://www.linkedin.com/in/mishita-nath-2435071ba/
 Mishita's Instagram: @eggroll.mountaindew
 
 ------------------------------------
-
-
 
 -------------------------------------
 
